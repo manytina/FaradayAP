@@ -1,0 +1,6 @@
+create canvas:
+
+1. create empty object
+2. add script : CreateCanvas.cs
+3. parameter -> Canvas : Canvas.prefab
+
