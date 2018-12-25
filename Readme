@@ -1,11 +1,11 @@
-download Canvas.unitypackag
+Steps:
+
+1. download Canvas.unitypackag
 including resource and dependeny
 
+2. create empty object
 
-/*
-create canvas:
+3. add script : CreateCanvas.cs
 
-1. create empty object
-2. add script : CreateCanvas.cs
-3. parameter -> Canvas : Canvas.prefab
-*/
+4. parameter -> Canvas : Canvas.prefab
+
