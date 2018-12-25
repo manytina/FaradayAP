@@ -3,9 +3,5 @@ Steps:
 1. download Canvas.unitypackag
 including resource and dependeny
 
-2. create empty object
 
-3. add script : CreateCanvas.cs
-
-4. parameter -> Canvas : Canvas.prefab
 
